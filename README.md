@@ -3,5 +3,5 @@
 ------------
 ### Meccanica principale
 #### Attacco: 
-Modifica dell'estetica e dello stato del nemico con l'inversione
+Modifica dell'estetica e dello stato del nemico con l'inversione dei pixel (tramite sprite)
 #### Movimento: 
