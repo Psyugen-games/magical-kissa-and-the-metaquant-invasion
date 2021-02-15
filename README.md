@@ -1,6 +1,21 @@
 # Magical Girl Game Jam Project
 ## 13/02/2021-14/03/2021
 ### Domande fondamentali
+- [ ] Qual è il ruolo della fisica quantistica nella storia? 
+- [ ] Qual è il ruolo della fisica quantistica nelle meccaniche?
+- [ ] Chi sono gli alieni?
+- [ ] La bacchetta, nel contesto della fisica quantistica, cosa fa e come? 
+- [ ] Come rendere lo spazio challenging? 
+- [ ] Qual è l'obiettivo del formarsi una strada nello spazio? 
+### Tema
+#### Concetti della fisica quantistica 
+Fisica Meccanica  | Fisica Quantistica
+------------- | -------------
+Leggi del moto  | Probabilità
+Logica | Creatività
+
+Quantum-to-classical crossover teoricamente possibile 
+#### Superposizione
 
 ------------
 ### Meccanica principale
