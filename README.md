@@ -23,5 +23,6 @@ Quantum-to-classical crossover teoricamente possibile
 ### Meccanica principale
 #### Attacco: 
 Modifica dell'estetica e dello stato del nemico con l'inversione dei pixel (tramite sprite)
+
 *Meccanica alternativa: separazione per un determinato lasso di tempo delle due entità aliene, rese "tangibili" e attaccabili ma anche mobili nello spazio*
 #### Movimento: 
