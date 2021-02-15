@@ -21,8 +21,8 @@ Quantum-to-classical crossover teoricamente possibile
 **Stato**: vettore dibimensionale, che può andare o in alto o in basso e determina la sua posizione nello spazio e il suo livello di energia quantizzato.
 
 #### Superposizione
-Una particella ha due stati contrapposti e determinati da livelli di energia: stato A e stato B, e ha due posizioni nello spazio differenti, posizione a e posizione b. 
-Per determinare stati e posizione, è necessaria una misurazione nel tempo tramite un'interferenza di altre particelle nello stesso environment. 
+Una particella ha due stati contrapposti: stato A e stato B. 
+Per determinare questi stati, è necessaria una misurazione nel tempo tramite un'interferenza di altre particelle nello stesso environment. 
 La misurazione determina un collasso della superposizione e una scelta casuale di uno stato in un determinato tempo. 
 
 ------------
