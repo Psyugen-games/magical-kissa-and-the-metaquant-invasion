@@ -30,5 +30,5 @@ La misurazione determina un collasso della superposizione e una scelta casuale d
 #### Attacco: 
 Modifica dell'estetica e dello stato del nemico con l'inversione dei pixel (tramite sprite)
 
-*Meccanica alternativa: separazione per un determinato lasso di tempo delle due entità aliene, rese "tangibili" e attaccabili ma anche mobili nello spazio*
+*Meccanica alternativa: separazione per un determinato lasso di tempo delle due entità aliene, rese "tangibili" e attaccabili ma anche mobili nello spazio: da superposizione a ground state e quindi excited state, fino a stable state*
 #### Movimento: 
