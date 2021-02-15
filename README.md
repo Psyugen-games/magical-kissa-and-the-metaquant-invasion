@@ -18,7 +18,7 @@ Logica | Creatività
 
 Quantum-to-classical crossover teoricamente possibile
 
-**Stato**: vettore dibimensionale, che può andare o in alto o in basso e determina la sua posizione nello spazio e il suo livello di energia quantizzato.
+**Stato**: vettore dibimensionale, che può andare o in alto o in basso e determina la posizione della particella nello spazio, il suo livello di energia quantizzato, e quindi il probabile risultato della somma di questi.
 
 #### Superposizione
 Una particella ha due stati contrapposti: stato A e stato B. 
