@@ -44,11 +44,20 @@ La misurazione determina un collasso della superposizione e una scelta casuale, 
 ------------
 ## Resa del tema nelle meccaniche
 ### Livello 1
-Il livello 1 è un'introduzione alla storia e ai poteri dell'eroina. La superposizione qui è resa nella maniera più semplice, con la probabilità (i movimenti seguono un pattern prevedibile, e la divisione in stati è un semplice 50%).  
-Gli alieni sono un'unica sfera in grado di attaccare l'eroina a grande velocità: con l'uso della bacchetta un numero sufficiente di volte, i due stati dell'alieno-particella " :angry: " e " :smile: " sono visibili e solo uno può essere attaccato e neutralizzato, mentre l'altro sparisce. La magical girl ha tot tempo per attaccare la particella, prima che questa torni inconsistente (ma sempre in grado di attaccare la magical girl).
+Il livello 1 è un'introduzione alla storia e ai poteri dell'eroina. La superposizione qui è resa nella maniera più semplice, con la probabilità (i movimenti sono gli seguono un pattern prevedibile, e la divisione in stati è un semplice 50%).  
+Gli alieni sono un'unica sfera in grado di attaccare l'eroina a grande velocità, correndo su una psudocirconferenza e apparendo in vari punti casualmente: con l'uso della bacchetta un numero sufficiente di volte, i due stati dell'alieno-particella " :angry: " e " :smile: " sono visibili e solo uno può essere attaccato e neutralizzato, mentre l'altro sparisce. La magical girl ha tot tempo per attaccare la particella, prima che questa torni inconsistente (ma sempre in grado di attaccare la magical girl).
+fase 1: superposizione, in cui i due stati si muovono in direzioni opposte e casualmente una sola compare, visibile, nell'orbita e attaccano indistruttibili la magical girl 
+fase 2: dopo una misurazione di successo (3-5 lanci che colpiscano lo stato), uno dei due stati scompare e l'altro si blocca in un tempo determinato 
+fase 3a: la magical girl colpisce con successo e sconfigge l'alienetto 
+fase 3b: la magical girl non colpisce l'alienetto in tempo e questo si rialterna con il vecchio stato, che ricompare; a questo punto entrambi, l'alienetto nei due stati, e la magical girl, si possono danneggiare a vicenda. 
+
 *alternativa: life-link, e cioè uno stato perde vita , l'altro la guadagna; per sconfiggere l'alienetto, la magical girl deve riuscire ad attaccare contemporaneamente entrambi nel momento in cui l'alternanza tra gli stati è stabile e ben intervallata
 
 Questa meccanica richiede al giocatore riflessi, per evitare di subire attacchi e lanciare l'incantesimo della magical girl al momento giusto.
+
+#### Prototipazione 
+In questo prototipo ci concentriamo sullo **stato** nel senso di **posizione** all'interno di un'ellissi. I due stati sono separati da principio e compaiono a intermittenza in punti casuali dell'orbita. Nello specifico della fase 3b, testare se, a livello di esperienza di gioco, sia meglio costringere il giocatore a colpire o l'alienetto nello stato neutralizzato in precedenza, o il suo "gemello" che prima era scomparso. 
+Due comandi separati per misurazione e attacco per la magical girl; la particella attacca con un singolo proiettile dalla fase 2, mentre durante la fase 1 genera un'onda quando i due stati si incontrano più spesso nell'orbita (da rendere anche semplicemente con un aumento del lancio di proiettili). Durante la misurazione, i proiettili della magical girl urtano quelli dell'alieno (non si trapassano a vicenda). 
 
 ### Livello 2 
 Il livello 2 aggiunge alla meccanica del livello 1 l'entanglement, e quindi la concatenazione delle varie particelle le quali mantengono la memoria della superposizione. Ora la magical girl, a seconda di chi ha neutralizzato, potrà acquisire, nella sua scatola, i poteri dello stato dell'alieno. Questo gli servirà per muoversi nello spazio, in una meccanica di movimento che ancora devo ragionare ma che pensavo di riprendere dal gioco da tavolo "Labyrinth" e adattarlo (concettualmente) a superposizione ed entanglement. Dall'altra parte, ogni alienetto ha un indizio su come trovare il boss (non ho ancora pensato che tipo di indizio). 
