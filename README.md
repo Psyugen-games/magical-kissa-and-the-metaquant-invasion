@@ -9,6 +9,10 @@
   - [ ] a. *Può funzionare come un'onda elettromagnetica che distingue le due entità aliene coesistenti, e cioè avvia la misurazione della superposizione*
 - [ ] Come rendere lo spazio challenging? 
 - [ ] Qual è l'obiettivo del formarsi una strada nello spazio ludico? 
+- [ ] Vogliamo attenerci alle formule in maniera stretta o solo richiamarle?
+  - [ ] a. _è possibile inizialmente tentare senza la formula reale, ma con una emulata
+  - [ ] b. _potremmo semplificare al Livello 1 e complicare (cioè riprendere l'esatta formula) dal Livello 2
+- [ ] Kissa ha solo una bacchetta? O si trasforma? 
 ### Tema
 #### Concetti della fisica quantistica 
 Fisica Classica  | Fisica Quantistica
@@ -41,7 +45,9 @@ La misurazione determina un collasso della superposizione e una scelta casuale, 
 ## Resa del tema nelle meccaniche
 ### Livello 1
 Il livello 1 è un'introduzione alla storia e ai poteri dell'eroina. La superposizione qui è resa nella maniera più semplice, con la probabilità (i movimenti seguono un pattern prevedibile, e la divisione in stati è un semplice 50%).  
-Gli alieni sono un'unica sfera in grado di attaccare l'eroina a grande velocità: con l'uso della bacchetta un numero sufficiente di volte, i due stati dell'alieno-particella " :angry: " e " :smile: " sono visibili e solo uno può essere attaccato per neutralizzare e far sparire anche l'altro. 
+Gli alieni sono un'unica sfera in grado di attaccare l'eroina a grande velocità: con l'uso della bacchetta un numero sufficiente di volte, i due stati dell'alieno-particella " :angry: " e " :smile: " sono visibili e solo uno può essere attaccato e neutralizzato, mentre l'altro sparisce. La magical girl ha tot tempo per attaccare la particella, prima che questa torni inconsistente (ma sempre in grado di attaccare la magical girl).
+*alternativa: life-link, e cioè uno stato perde vita , l'altro la guadagna; per sconfiggere l'alienetto, la magical girl deve riuscire ad attaccare contemporaneamente entrambi nel momento in cui l'alternanza tra gli stati è stabile e ben intervallata
+
 Questa meccanica richiede al giocatore riflessi, per evitare di subire attacchi e lanciare l'incantesimo della magical girl al momento giusto.
 
 ### Livello 2 
