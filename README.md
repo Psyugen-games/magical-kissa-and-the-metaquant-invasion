@@ -46,9 +46,9 @@ La misurazione determina un collasso della superposizione e una scelta casuale, 
 ## Resa del tema nelle meccaniche
 ### Livello 1
 Il livello 1 è un'introduzione alla storia e ai poteri dell'eroina. La superposizione qui è resa nella maniera più semplice, con la probabilità (i movimenti sono gli seguono un pattern prevedibile, e la divisione in stati è un semplice 50%).  
-Gli alieni sono un'unica sfera in grado di attaccare l'eroina a grande velocità, correndo su una ellissi e apparendo in vari punti casualmente: con l'uso della bacchetta un numero sufficiente di volte, i due stati dell'alieno-particella " :angry: " e " :smile: " sono visibili e solo uno può essere attaccato e neutralizzato, mentre l'altro sparisce. La magical girl ha tot tempo per attaccare la particella, prima che questa torni inconsistente (ma sempre in grado di attaccare la magical girl).  
+Gli alieni sono un'unica sfera in grado di attaccare l'eroina a grande velocità, correndo su una ellissi e apparendo in vari punti casualmente: con l'uso della bacchetta un numero sufficiente di volte, i due stati dell'alieno-particella " :angry: " e " :smile: " sono visibili (?) e solo uno può essere attaccato e neutralizzato, mentre l'altro sparisce. La magical girl ha tot tempo per attaccare la particella, prima che questa torni inconsistente (ma sempre in grado di attaccare la magical girl).  
 fase 1: superposizione, in cui i due stati si muovono in direzioni opposte e casualmente una sola compare, visibile, nell'orbita e attaccano indistruttibili la magical girl   
-fase 2: dopo una misurazione di successo (3 lanci che colpiscano lo stato), uno dei due stati scompare e l'altro si blocca in un tempo determinato  
+fase 2: dopo una misurazione di successo (3 lanci che colpiscano gli stati sovrapposti), uno dei due stati scompare e l'altro si blocca in un tempo determinato  
 fase 3a: la magical girl colpisce con successo e sconfigge l'alienetto  
 fase 3b: la magical girl non colpisce l'alienetto in tempo e questo si rialterna con il vecchio stato, che ricompare; a questo punto entrambi, l'alienetto nei due stati, e la magical girl, si possono danneggiare a vicenda.   
 
