@@ -13,6 +13,7 @@
   - [ ] a. _è possibile inizialmente tentare senza la formula reale, ma con una emulata
   - [ ] b. _potremmo semplificare al Livello 1 e complicare (cioè riprendere l'esatta formula) dal Livello 2
 - [ ] Kissa ha solo una bacchetta? O si trasforma? 
+- [ ] Intermittenza di " :angry: " e " :smile: " : una delle due deve essere sempre visibile o no?
 ### Tema
 #### Concetti della fisica quantistica 
 Fisica Classica  | Fisica Quantistica
@@ -45,13 +46,14 @@ La misurazione determina un collasso della superposizione e una scelta casuale, 
 ## Resa del tema nelle meccaniche
 ### Livello 1
 Il livello 1 è un'introduzione alla storia e ai poteri dell'eroina. La superposizione qui è resa nella maniera più semplice, con la probabilità (i movimenti sono gli seguono un pattern prevedibile, e la divisione in stati è un semplice 50%).  
-Gli alieni sono un'unica sfera in grado di attaccare l'eroina a grande velocità, correndo su una psudocirconferenza e apparendo in vari punti casualmente: con l'uso della bacchetta un numero sufficiente di volte, i due stati dell'alieno-particella " :angry: " e " :smile: " sono visibili e solo uno può essere attaccato e neutralizzato, mentre l'altro sparisce. La magical girl ha tot tempo per attaccare la particella, prima che questa torni inconsistente (ma sempre in grado di attaccare la magical girl).  
+Gli alieni sono un'unica sfera in grado di attaccare l'eroina a grande velocità, correndo su una ellissi e apparendo in vari punti casualmente: con l'uso della bacchetta un numero sufficiente di volte, i due stati dell'alieno-particella " :angry: " e " :smile: " sono visibili e solo uno può essere attaccato e neutralizzato, mentre l'altro sparisce. La magical girl ha tot tempo per attaccare la particella, prima che questa torni inconsistente (ma sempre in grado di attaccare la magical girl).  
 fase 1: superposizione, in cui i due stati si muovono in direzioni opposte e casualmente una sola compare, visibile, nell'orbita e attaccano indistruttibili la magical girl   
-fase 2: dopo una misurazione di successo (3-5 lanci che colpiscano lo stato), uno dei due stati scompare e l'altro si blocca in un tempo determinato  
+fase 2: dopo una misurazione di successo (3 lanci che colpiscano lo stato), uno dei due stati scompare e l'altro si blocca in un tempo determinato  
 fase 3a: la magical girl colpisce con successo e sconfigge l'alienetto  
 fase 3b: la magical girl non colpisce l'alienetto in tempo e questo si rialterna con il vecchio stato, che ricompare; a questo punto entrambi, l'alienetto nei due stati, e la magical girl, si possono danneggiare a vicenda.   
 
 *alternativa: life-link, e cioè uno stato perde vita , l'altro la guadagna; per sconfiggere l'alienetto, la magical girl deve riuscire ad attaccare contemporaneamente entrambi nel momento in cui l'alternanza tra gli stati è stabile e ben intervallata
+*alternativa: diverse tipologie di superposizione, una legata alla posizione (movimento ellittico) e una legata allo stato di energia (dormiente o attiva, cioè excited e ground state)
 
 Questa meccanica richiede al giocatore riflessi, per evitare di subire attacchi e lanciare l'incantesimo della magical girl al momento giusto.
 
