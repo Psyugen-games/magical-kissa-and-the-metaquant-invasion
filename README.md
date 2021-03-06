@@ -1,12 +1,13 @@
 # Magical Girl Game Jam Project
 ## 13/02/2021-14/03/2021
 ### Domande fondamentali
-- [ ] Qual è il ruolo della fisica quantistica nella storia? 
-- [ ] Qual è il ruolo della fisica quantistica nelle meccaniche?
-- [ ] Chi sono gli alieni?
+- [x] Qual è il ruolo della fisica quantistica nella storia? 
+  
+- [X] Qual è il ruolo della fisica quantistica nelle meccaniche?
+- [ ] Chi sono i MetaQuant?
   - [ ] a. *Particelle con due stati e tendenze diverse, con poteri speciali presi dalle varie tipologie di particelle quantizzate*
-- [ ] La bacchetta, nel contesto della fisica quantistica, cosa fa e come? 
-  - [ ] a. *Può funzionare come un'onda elettromagnetica che distingue le due entità aliene coesistenti, e cioè avvia la misurazione della superposizione*
+- [x] La bacchetta, nel contesto della fisica quantistica, cosa fa e come? 
+  - *Può funzionare come un'onda elettromagnetica che distingue le due entità aliene coesistenti, e cioè avvia la misurazione della superposizione; è inoltre la sua arma a distanza*
 - [ ] Come rendere lo spazio challenging? 
 - [ ] Qual è l'obiettivo del formarsi una strada nello spazio ludico? 
 - [ ] Vogliamo attenerci alle formule in maniera stretta o solo richiamarle?
@@ -14,6 +15,7 @@
   - [ ] b. _potremmo semplificare al Livello 1 e complicare (cioè riprendere l'esatta formula) dal Livello 2
 - [ ] Kissa ha solo una bacchetta? O si trasforma? 
 - [ ] Intermittenza di " :angry: " e " :smile: " : una delle due deve essere sempre visibile o no?
+- *Una sempre visibile*
 ### Tema
 #### Concetti della fisica quantistica 
 Fisica Classica  | Fisica Quantistica
@@ -88,7 +90,7 @@ Tutte le meccaniche testate e conosciute dal giocatore nei livelli precedenti, d
 
 ## Resa del tema nella storia
 Kissa è una studentessa d'arte, che un giorno visita il laboratorio dove è stato appena brevettato il primo computer in qubit. 
-Il computer, nel momento in cui interagisce con la ragazza, le manda un messaggio da un'altra dimensione: il mondo da cui la contattano è stato attaccato e distrutto da degli alieni capaci di prendere il controllo del pianeta decomponendosi in particelle. Il motivo per cui è Kissa a ricevere il messaggio è perché in quella dimensione la sua "controparte" è una scienziata ed è stata lei a costruire il computer in qubit. Per il principio della superposizione, e quindi dell'entanglement, essendo loro legate l'una all'altra come "gemelle", la Kissa scienziata, morta durante l'attacco, può trasmettere alla pittrice le sue conoscenze ed evitare che anche il suo mondo venga distrutto. 
-Kissa, quindi, si può trasformare in una magical girl (ed essere "sia viva che morta") e usare il computer in qubit per fermare gli alieni. 
+Il computer, nel momento in cui interagisce con la ragazza, le manda un messaggio da un'altra dimensione: il mondo da cui la contattano è stato attaccato e distrutto da degli alieni, chiamati MetaQuant, capaci di prendere il controllo del pianeta decomponendosi in particelle. Il motivo per cui è Kissa a ricevere il messaggio è perché in quella dimensione la sua "controparte" è una scienziata ed è stata lei a costruire il computer in qubit. Per il principio della superposizione, e quindi dell'entanglement, essendo loro legate l'una all'altra come "gemelle", la Kissa scienziata, morta durante l'attacco, può trasmettere alla pittrice le sue conoscenze ed evitare che anche il suo mondo venga distrutto. 
+Kissa, quindi, si può trasformare in una magical girl (inoltre essere "sia viva che morta") e usare il computer in qubit per fermare gli alieni. 
 
 Il loro leader, però, può usare solo il qubit per interagire in questo mondo: l'unico modo per poter uscire dal computer è azionare un congegno nascosto all'interno del computer e che lo ha rinchiuso, perché sia in grado di trasformarlo in un vero e proprio teletrasporto. Kissa, quindi, dovrà interagire con gli alienetti per togliere potere al mostro, trovare un modo (attraverso la soluzione di indovinelli) per entrare nel marchingegno, sconfiggere il leader degli alieni, disattivare il congegno e riuscire a scappare in tempo. Questo chiuderà il collegamento stretto con l'altra dimensione, ma i poteri donati a Kissa per la morte della sua controparte scienziata rimarranno.
