@@ -46,11 +46,24 @@ La misurazione determina un collasso della superposizione e una scelta casuale, 
 ## Resa del tema nelle meccaniche
 ### Livello 1
 Il livello 1 è un'introduzione alla storia e ai poteri dell'eroina. La superposizione qui è resa nella maniera più semplice, con la probabilità (i movimenti sono gli seguono un pattern prevedibile, e la divisione in stati è un semplice 50%).  
-Gli alieni sono un'unica sfera in grado di attaccare l'eroina a grande velocità, correndo su una ellissi e apparendo in vari punti casualmente: con l'uso della bacchetta un numero sufficiente di volte, i due stati dell'alieno-particella " :angry: " e " :smile: " sono visibili (?) e solo uno può essere attaccato e neutralizzato, mentre l'altro sparisce. La magical girl ha tot tempo per attaccare la particella, prima che questa torni inconsistente (ma sempre in grado di attaccare la magical girl).  
-fase 1: superposizione, in cui i due stati si muovono in direzioni opposte e casualmente una sola compare, visibile, nell'orbita e attaccano indistruttibili la magical girl   
-fase 2: dopo una misurazione di successo (3 lanci che colpiscano gli stati sovrapposti), uno dei due stati scompare e l'altro si blocca in un tempo determinato  
+#### Tipologia A: combattimento
+Due sfere, gli stati dell'alieno, in grado di attaccare l'eroina a grande velocità, correndo su una ellissi e apparendo in vari punti casualmente e alternate.
+fase 0: superposizione, in cui i due stati si muovono in direzioni opposte e casualmente una sola compare, visibile, nell'orbita e attaccano indistruttibili la magical girl   
+fase 1: misurazione di successo (3 lanci che colpiscano gli stati **sovrapposti**)
+fase 2: uno dei due stati scompare e l'altro si blocca in uno dei punti di **sovrapposizione** (quando l'onda viene emanata e le due sfere si incrociano)  
 fase 3a: la magical girl colpisce con successo e sconfigge l'alienetto  
-fase 3b: la magical girl non colpisce l'alienetto in tempo e questo si rialterna con il vecchio stato, che ricompare; a questo punto entrambi, l'alienetto nei due stati, e la magical girl, si possono danneggiare a vicenda.   
+fase 3b: la magical girl non colpisce l'alienetto in tempo: questo si rialterna con il vecchio stato e si ritorna alla fase 1.   
+
+#### Tipologia B: interazione con l'environment 
+Per aprire delle porte, Kissa ha bisogno di superare un alieno, i cui due stati sono relativi all'energia. 
+a. se in ground state " :sleeping: " , Kissa può usare la sua bacchetta per attraversare l'alieno, e colpire un bottone altrimenti irraggiungibile 
+b. se in excited state " :flushed: " , l'interazione di Kissa (che sia avvicinandosi troppo, attaccandolo, o usando la bacchetta) provoca l'alieno, che la danneggia con un attacco che ha lui stesso come centro; attacchi a distanza rimbalzano indietro.
+
+![1838785fb5138d0](https://user-images.githubusercontent.com/77356049/110204818-6d013080-7e75-11eb-99a3-8bc8bcc69ccc.png)
+> a.
+
+![0fbcff94fb663e9](https://user-images.githubusercontent.com/77356049/110204532-d2ecb880-7e73-11eb-80fa-cfe2b8486933.png)
+> b.
 
 *alternativa: life-link, e cioè uno stato perde vita , l'altro la guadagna; per sconfiggere l'alienetto, la magical girl deve riuscire ad attaccare contemporaneamente entrambi nel momento in cui l'alternanza tra gli stati è stabile e ben intervallata
 *alternativa: diverse tipologie di superposizione, una legata alla posizione (movimento ellittico) e una legata allo stato di energia (dormiente o attiva, cioè excited e ground state)
@@ -74,8 +87,8 @@ Quindi, l'intenzione è approfondire non solo il tema, pur in maniera umanamente
 Tutte le meccaniche testate e conosciute dal giocatore nei livelli precedenti, diventano gli strumenti contro il villain, che è potenziato da quelle particelle che, nel processo della superposizione e poi del collasso, la magical girl non ha inglobato. Il villain è composto quindi da tanti alienetti, lui stesso con vari "fulcri" (= particelle) che si muovono ed emanano i loro poteri verso l'esterno (= onde). Qui si riprenderebbe la meccanica pensata inizialmente: inversione della posizione delle particelle (esteticamente simili ai pixel) e quindi reindirizzamento dei poteri. Va approfondito e creato uno schema di possibili interazioni, sia tra gli alieni dentro il villain, che l'incontro tra questi e i poteri della magical girl.
 
 ## Resa del tema nella storia
-Kissa (nome 100% provvisorio) è una studentessa d'arte, che un giorno visita il laboratorio dove è stato appena brevettato il primo computer in qubit. 
-Il computer, nel momento in cui interagisce con la ragazza, le manda un messaggio da un'altra dimensione: il mondo da cui la contattano è stato attaccato e distrutto da degli alieni capaci di prendere il controllo infiltrandosi nel pianeta e decomponendosi in particelle. Il motivo per cui è Kissa a ricevere il messaggio è perché in quella dimensione la sua "controparte" è una scienziata ed è stata lei a costruire il computer in qubit. Per il principio della superposizione, e quindi dell'entanglement, essendo loro legate l'una all'altra come "gemelle", la Kissa scienziata, morta durante l'attacco, può trasmettere alla pittrice le sue conoscenze ed evitare che anche il suo mondo venga distrutto. 
+Kissa è una studentessa d'arte, che un giorno visita il laboratorio dove è stato appena brevettato il primo computer in qubit. 
+Il computer, nel momento in cui interagisce con la ragazza, le manda un messaggio da un'altra dimensione: il mondo da cui la contattano è stato attaccato e distrutto da degli alieni capaci di prendere il controllo del pianeta decomponendosi in particelle. Il motivo per cui è Kissa a ricevere il messaggio è perché in quella dimensione la sua "controparte" è una scienziata ed è stata lei a costruire il computer in qubit. Per il principio della superposizione, e quindi dell'entanglement, essendo loro legate l'una all'altra come "gemelle", la Kissa scienziata, morta durante l'attacco, può trasmettere alla pittrice le sue conoscenze ed evitare che anche il suo mondo venga distrutto. 
 Kissa, quindi, si può trasformare in una magical girl (ed essere "sia viva che morta") e usare il computer in qubit per fermare gli alieni. 
 
-Yay!
+Il loro leader, però, può usare solo il qubit per interagire in questo mondo: l'unico modo per poter uscire dal computer è azionare un congegno nascosto all'interno del computer e che lo ha rinchiuso, perché sia in grado di trasformarlo in un vero e proprio teletrasporto. Kissa, quindi, dovrà interagire con gli alienetti per togliere potere al mostro, trovare un modo (attraverso la soluzione di indovinelli) per entrare nel marchingegno, sconfiggere il leader degli alieni, disattivare il congegno e riuscire a scappare in tempo. Questo chiuderà il collegamento stretto con l'altra dimensione, ma i poteri donati a Kissa per la morte della sua controparte scienziata rimarranno.
