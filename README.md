@@ -75,22 +75,21 @@ Questa meccanica richiede al giocatore riflessi, per evitare di subire attacchi 
 #### Prototipazione 
 In questo prototipo ci concentriamo sullo **stato** nel senso di **posizione** all'interno di un'ellissi. I due stati sono separati da principio e compaiono a intermittenza in punti casuali dell'orbita. Nello specifico della fase 3b, testare se, a livello di esperienza di gioco, sia meglio costringere il giocatore a colpire o l'alienetto nello stato neutralizzato in precedenza, o il suo "gemello" che prima era scomparso. 
 Due comandi separati per misurazione e attacco per la magical girl; la particella attacca con un singolo proiettile dalla fase 2, mentre durante la fase 1 genera un'onda quando i due stati si incontrano più spesso nell'orbita (da rendere anche semplicemente con un aumento del lancio di proiettili). Durante la misurazione, i proiettili della magical girl urtano quelli dell'alieno (non si trapassano a vicenda). 
+
 ##### Asset: 
 
 + Tileset 
-   +
-+ FX 
-   +
+   + https://apokalips123.itch.io/sci-ficyberpunk-tileset
++ Background 
+   + 
++ Particles 
+   + 
 + Main Character 
    + 
 + MetaQuant Character
    +
 +   Objects 
    + 
-+ Particles 
-   + 
-+ Background 
-   +
 
 ### Livello 2 
 Il livello 2 aggiunge alla meccanica del livello 1 l'entanglement, e quindi la concatenazione delle varie particelle le quali mantengono la memoria della superposizione. Ora la magical girl, a seconda di chi ha neutralizzato, potrà acquisire, nella sua scatola, i poteri dello stato dell'alieno. Questo gli servirà per muoversi nello spazio, in una meccanica di movimento che ancora devo ragionare ma che pensavo di riprendere dal gioco da tavolo "Labyrinth" e adattarlo (concettualmente) a superposizione ed entanglement. Dall'altra parte, ogni alienetto ha un indizio su come trovare il boss (non ho ancora pensato che tipo di indizio). 
