@@ -1,0 +1,1104 @@
+fileFormatVersion: 2
+guid: 9dbec312eb154bc4e918c16e6632e5b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2612916221538964264
+    second: sara-cal-4x_0
+  - first:
+      213: -6993686725868560906
+    second: sara-cal-4x_1
+  - first:
+      213: -7747636279708741917
+    second: sara-cal-4x_2
+  - first:
+      213: 2372608653042551745
+    second: sara-cal-4x_3
+  - first:
+      213: -8577233147247193746
+    second: sara-cal-4x_4
+  - first:
+      213: -6192919084291923684
+    second: sara-cal-4x_5
+  - first:
+      213: -568050812958800449
+    second: sara-cal-4x_6
+  - first:
+      213: -2509117937216278478
+    second: sara-cal-4x_7
+  - first:
+      213: 2310044085580722113
+    second: sara-cal-4x_8
+  - first:
+      213: -2963427334059340120
+    second: sara-cal-4x_9
+  - first:
+      213: -3577231230992746667
+    second: sara-cal-4x_11
+  - first:
+      213: 5839564900098853146
+    second: sara-cal-4x_12
+  - first:
+      213: -2719543399785841728
+    second: sara-cal-4x_13
+  - first:
+      213: -7039639788507569466
+    second: sara-cal-4x_14
+  - first:
+      213: -640625345594225459
+    second: sara-cal-4x_15
+  - first:
+      213: 329270104365647538
+    second: sara-cal-4x_16
+  - first:
+      213: -3132500464061027160
+    second: sara-cal-4x_17
+  - first:
+      213: -3141349582698108057
+    second: sara-cal-4x_18
+  - first:
+      213: -1559467673629073404
+    second: sara-cal-4x_19
+  - first:
+      213: -4223138845576358905
+    second: sara-cal-4x_20
+  - first:
+      213: -9008649965335962647
+    second: sara-cal-4x_21
+  - first:
+      213: -1784371705256829137
+    second: sara-cal-4x_22
+  - first:
+      213: -5553686969492842183
+    second: sara-cal-4x_23
+  - first:
+      213: 6351135123763937926
+    second: sara-cal-4x_25
+  - first:
+      213: -4027355475743544674
+    second: sara-cal-4x_26
+  - first:
+      213: 5630281603277638772
+    second: sara-cal-4x_27
+  - first:
+      213: 2536692509816030340
+    second: sara-cal-4x_28
+  - first:
+      213: 9127777362555439
+    second: sara-cal-4x_29
+  - first:
+      213: -1631106253484520597
+    second: sara-cal-4x_30
+  - first:
+      213: 4393872206815895179
+    second: sara-cal-4x_31
+  - first:
+      213: -3645891975524014128
+    second: sara-cal-4x_32
+  - first:
+      213: -6539137638336754527
+    second: sara-cal-4x_35
+  - first:
+      213: 5064380018340048664
+    second: sara-cal-4x_36
+  - first:
+      213: -2691662148290353962
+    second: sara-cal-4x_37
+  - first:
+      213: 6965234260493508105
+    second: sara-cal-4x_38
+  - first:
+      213: -4096479193667850070
+    second: sara-cal-4x_39
+  - first:
+      213: -3250741495682163415
+    second: sara-cal-4x_40
+  - first:
+      213: -1689545314646325881
+    second: sara-cal-4x_41
+  - first:
+      213: 5986713037478471561
+    second: sara-cal-4x_42
+  - first:
+      213: 2210496467632064896
+    second: sara-cal-4x_44
+  - first:
+      213: 5921485738308762370
+    second: sara-cal-4x_45
+  - first:
+      213: 5775506195221620178
+    second: sara-cal-4x_46
+  - first:
+      213: 1583299433271523328
+    second: sara-cal-4x_47
+  - first:
+      213: 3154522780751946541
+    second: sara-cal-4x_48
+  - first:
+      213: -6525740705981683106
+    second: sara-cal-4x_49
+  - first:
+      213: -7954751768847661011
+    second: sara-cal-4x_50
+  - first:
+      213: 3398142993069098320
+    second: sara-cal-4x_51
+  - first:
+      213: -2971913502027762845
+    second: sara-cal-4x_52
+  - first:
+      213: 7222689275357527209
+    second: sara-cal-4x_53
+  - first:
+      213: 3382771451006839501
+    second: sara-cal-4x_54
+  - first:
+      213: 4924428197173228154
+    second: sara-cal-4x_55
+  - first:
+      213: 7150991750478420875
+    second: sara-cal-4x_56
+  - first:
+      213: 7444958656143867182
+    second: sara-cal-4x_58
+  - first:
+      213: 7671405039291635543
+    second: sara-cal-4x_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sara-cal-4x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1693
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc60535a8e0dbbd0800000000000000
+      internalID: -2612916221538964264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1693
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd5d3a1afe61fe90800000000000000
+      internalID: -6993686725868560906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1693
+        width: 131
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee08033addda7490800000000000000
+      internalID: -7747636279708741917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1693
+        width: 135
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb8e93dff23de020800000000000000
+      internalID: 2372608653042551745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_5
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1693
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11ea0287e45e0aa0800000000000000
+      internalID: -6192919084291923684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_6
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1693
+        width: 146
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb508379bc0ed18f0800000000000000
+      internalID: -568050812958800449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1693
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230b9aca782dd2dd0800000000000000
+      internalID: -2509117937216278478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_8
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1693
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfe7805bdcee0020800000000000000
+      internalID: 2310044085580722113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_9
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1693
+        width: 146
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aec5b36a8acfd6d0800000000000000
+      internalID: -2963427334059340120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_11
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1693
+        width: 147
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5577e3df52f1b5ec0800000000000000
+      internalID: -3577231230992746667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1439
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40062aac968ab5ae0800000000000000
+      internalID: -1559467673629073404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1439
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704944858956465c0800000000000000
+      internalID: -4223138845576358905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1439
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb905e1698daf280800000000000000
+      internalID: -9008649965335962647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_22
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1439
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f98e85363ac37e0800000000000000
+      internalID: -1784371705256829137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_23
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1439
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939d9ad30275de2b0800000000000000
+      internalID: -5553686969492842183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_25
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1439
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682c47cceb3c32850800000000000000
+      internalID: 6351135123763937926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_26
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1439
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ae41c5885fb18c0800000000000000
+      internalID: -4027355475743544674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_27
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1439
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cc7c4a947c22e40800000000000000
+      internalID: 5630281603277638772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_28
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1439
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4848affc564243320800000000000000
+      internalID: 2536692509816030340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1185
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22b8474aad602000800000000000000
+      internalID: 9127777362555439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1181
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b032221852d59e0800000000000000
+      internalID: -1631106253484520597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1181
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e19bb0e7b2afc30800000000000000
+      internalID: 4393872206815895179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_32
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1182
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7a175a090376dc0800000000000000
+      internalID: -3645891975524014128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_35
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1149
+        width: 152
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac0d89b6f05045a0800000000000000
+      internalID: -6539137638336754527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_36
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1149
+        width: 158
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81faeb06bca484640800000000000000
+      internalID: 5064380018340048664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_38
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1149
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e981218ab79a060800000000000000
+      internalID: 6965234260493508105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 925
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa036af90e16627c0800000000000000
+      internalID: -4096479193667850070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 925
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d1e3535db03e2d0800000000000000
+      internalID: -3250741495682163415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 925
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7858498ec778d88e0800000000000000
+      internalID: -1689545314646325881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 925
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987aa13e9c3151350800000000000000
+      internalID: 5986713037478471561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 677
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aa7ab1769ef65a0800000000000000
+      internalID: -6525740705981683106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 677
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28cc6d896b0b9190800000000000000
+      internalID: -7954751768847661011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_51
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 677
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055cddd4c01a82f20800000000000000
+      internalID: 3398142993069098320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_52
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 677
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363b2707a64a1c6d0800000000000000
+      internalID: -2971913502027762845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_53
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 677
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac75b4e0a52c3460800000000000000
+      internalID: 7222689275357527209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca689546b402fe20800000000000000
+      internalID: 3382771451006839501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_55
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 414
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a727d66ca55175440800000000000000
+      internalID: 4924428197173228154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sara-cal-4x_56
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 414
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bd3070c1d6d3360800000000000000
+      internalID: 7150991750478420875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
