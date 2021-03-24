@@ -81,16 +81,21 @@ Due comandi separati per misurazione e attacco per la magical girl; la particell
 + Tileset 
    + https://apokalips123.itch.io/sci-ficyberpunk-tileset
    + 
-+ Background 
-   + 
++ Environment 
+   + [Pixel Lab](https://zrghr.itch.io/pixel)
+   + [Sci-fi Tilemap](https://moose-stache.itch.io/sci-fi-tilemap)
+   + [Pixel Art Planets](https://helianthus-games.itch.io/pixel-art-planets)
 + Particles 
-   + 
+   + [Pixel-art Game Spell/Magic FX](https://ppeldo.itch.io/2d-pixel-art-game-spellmagic-fx)
+   + [Explosion Spritesheet](https://craftpix.net/product/explosion-sprites/)
+   + [10 MAGIC SPRITE SHEET EFFECTS](https://craftpix.net/product/10-magic-sprite-sheet-effects-pixel-art/)
+   + [Free Enemy Spaceship](https://free-game-assets.itch.io/free-enemy-spaceship-2d-sprites-pixel-art)
 + Main Character 
    + 
 + MetaQuant Character
    +
 +   Objects 
-   + 
+   + [Free Enemy Spaceship](https://free-game-assets.itch.io/free-enemy-spaceship-2d-sprites-pixel-art) * spaceships as environmentals * 
 
 ### Livello 2 
 Il livello 2 aggiunge alla meccanica del livello 1 l'entanglement, e quindi la concatenazione delle varie particelle le quali mantengono la memoria della superposizione. Ora la magical girl, a seconda di chi ha neutralizzato, potrà acquisire, nella sua scatola, i poteri dello stato dell'alieno. Questo gli servirà per muoversi nello spazio, in una meccanica di movimento che ancora devo ragionare ma che pensavo di riprendere dal gioco da tavolo "Labyrinth" e adattarlo (concettualmente) a superposizione ed entanglement. Dall'altra parte, ogni alienetto ha un indizio su come trovare il boss (non ho ancora pensato che tipo di indizio). 
@@ -103,6 +108,8 @@ Quindi, l'intenzione è approfondire non solo il tema, pur in maniera umanamente
 
 ### Livello 4 
 Tutte le meccaniche testate e conosciute dal giocatore nei livelli precedenti, diventano gli strumenti contro il villain, che è potenziato da quelle particelle che, nel processo della superposizione e poi del collasso, la magical girl non ha inglobato. Il villain è composto quindi da tanti alienetti, lui stesso con vari "fulcri" (= particelle) che si muovono ed emanano i loro poteri verso l'esterno (= onde). Qui si riprenderebbe la meccanica pensata inizialmente: inversione della posizione delle particelle (esteticamente simili ai pixel) e quindi reindirizzamento dei poteri. Va approfondito e creato uno schema di possibili interazioni, sia tra gli alieni dentro il villain, che l'incontro tra questi e i poteri della magical girl.
+
+## 
 
 ## Resa del tema nella storia
 Kissa è una studentessa d'arte, che un giorno visita il laboratorio dove è stato appena brevettato il primo computer in qubit. 
