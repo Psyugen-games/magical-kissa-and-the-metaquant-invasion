@@ -76,7 +76,7 @@ Questa meccanica richiede al giocatore riflessi, per evitare di subire attacchi 
 In questo prototipo ci concentriamo sullo **stato** nel senso di **posizione** all'interno di un'ellissi. I due stati sono separati da principio e compaiono a intermittenza in punti casuali dell'orbita. Nello specifico della fase 3b, testare se, a livello di esperienza di gioco, sia meglio costringere il giocatore a colpire o l'alienetto nello stato neutralizzato in precedenza, o il suo "gemello" che prima era scomparso. 
 Due comandi separati per misurazione e attacco per la magical girl; la particella attacca con un singolo proiettile dalla fase 2, mentre durante la fase 1 genera un'onda quando i due stati si incontrano più spesso nell'orbita (da rendere anche semplicemente con un aumento del lancio di proiettili). Durante la misurazione, i proiettili della magical girl urtano quelli dell'alieno (non si trapassano a vicenda). 
 
-##### Asset: 
+##### Assets and graphics: 
 
 + Tileset 
    + https://apokalips123.itch.io/sci-ficyberpunk-tileset
@@ -93,7 +93,8 @@ Due comandi separati per misurazione e attacco per la magical girl; la particell
 + Main Character 
    + 
 + MetaQuant Character
-   +
+   + [Wraiths](https://craftpix.net/freebies/free-wraith-tiny-style-2d-sprites/)
+   + [Monster 2D Game Items](https://craftpix.net/freebies/free-monster-2d-game-items/)
 +   Objects 
    + [Free Enemy Spaceship](https://free-game-assets.itch.io/free-enemy-spaceship-2d-sprites-pixel-art) * spaceships as environmentals * 
 
