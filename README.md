@@ -93,6 +93,7 @@ Due comandi separati per misurazione e attacco per la magical girl; la particell
 + Main Character 
    + 
 + MetaQuant Character
++ [MetaQuant Sketch](https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgOCk35j8Cww/view)
    + [Wraiths](https://craftpix.net/freebies/free-wraith-tiny-style-2d-sprites/)
    + [Monster 2D Game Items](https://craftpix.net/freebies/free-monster-2d-game-items/)
 +   Objects 
