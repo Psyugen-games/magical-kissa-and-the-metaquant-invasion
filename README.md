@@ -118,6 +118,8 @@ Kissa, quindi, si può trasformare in una magical girl (inoltre essere "sia viva
 
 Il loro leader, però, può usare solo il qubit per interagire in questo mondo: l'unico modo per poter uscire dal computer è azionare un congegno nascosto all'interno del computer e che lo ha rinchiuso, perché sia in grado di trasformarlo in un vero e proprio teletrasporto. Kissa, quindi, dovrà interagire con gli alienetti per togliere potere al mostro, trovare un modo (attraverso la soluzione di indovinelli) per entrare nel marchingegno, sconfiggere il leader degli alieni, disattivare il congegno e riuscire a scappare in tempo. Questo chiuderà il collegamento stretto con l'altra dimensione, ma i poteri donati a Kissa per la morte della sua controparte scienziata rimarranno. 
 
+----
+
 ## Game Pitch 
 #### Game Title 
 "Magical Kissa and the MetaQuant Invasion"
@@ -129,13 +131,10 @@ From the age of 11 to 16 years old.
 Kissa is 15 years old and a wannabe painter and art student, who gets teleported into a quantum computer. There, the hologram of a scientist, who is her spitting image, tells her that an alien race invaded Earth in her dimension: the MetaQuant, able to decompose and split themselves into particles, this way travelling through space. Doctor Saski (that is her name) used her own creation, the quantum computer, to trap the aliens inside: she's giving Kissa magical powers to defeat the MetaQuant before they get out of there and destroy Earth. 
 Before dying, Saski locked the leader of the MetaQuant in a box inside the quantum computer: Kissa will need to gain strength and ability in her journey to reach the box and save the world. 
 ##### Characters 
-**Kissa** - ***player character***
-
-Saski - *non-player character, she interacts with Kissa through dialogues in key moments of the story*
-
-MetaQuant - *enemies*
-
-MetaQuant Leader - *final boss*
+- **Kissa** - ***player character***
+- Saski - *non-player character, she interacts with Kissa through dialogues in key moments of the story*
+- MetaQuant - *enemies*
+- MetaQuant Leader - *final boss*
 ##### World 
 The interior of a quantum computer.
 #### Art
@@ -143,10 +142,10 @@ The interior of a quantum computer.
 ##### Environment 
 Resembles the aesthetics of a quantum computer: tubes, long spirals, gold and silvery vertical wires from where platforms hang; plus, some flashing light runs on the background through the tubes. On Level 1, the environment is bright, but it gets darker and darker each Level. 
 ##### Main Character 
-Long, wavy and brown hair; purple eyes with feline-shaped pupils. 
+Long, wavy and brown hair; purple eyes with feline shaped pupils. 
 She wears headphones with robotic cat ears on the top; on the left side, however, the earbud is gone and there's only a microphone.
 Light skin, she has scars on the left side of her body and her left cat ear is broken.  
-Costume: sleeveless white open gown (similar to those used by scientists and artists to keep their clothes clean), tightended by a corset; heart-shaped top and flounce miniskirt, asymmetrical as it gets longer on the left leg, while it reveals lining shorts under it on the right side; she wears a single parisian sock on her right leg and short boots. 
+Costume: sleeveless white gown (similar to those used by scientists), tightened by a corset; heart-shaped top and flounce miniskirt, asymmetrical as it gets longer on the left leg, while it reveals lining shorts under it on the right side; she wears a single parisian sock on her right leg and short boots. 
 Colourful, colours contrasting the background.
 ##### Kissa's Quarterstaff 
 Magical quarterstaff which holds Kissa's and Saski's essence: it has one big brush on one side (that used to attack), and this symbol: 
