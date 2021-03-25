@@ -149,7 +149,11 @@ Light skin, she has scars on the left side of her body and her left cat ear is b
 Costume: sleeveless white open gown (similar to those used by scientists and artists to keep their clothes clean), tightended by a corset; heart-shaped top and flounce miniskirt, asymmetrical as it gets longer on the left leg, while it reveals lining shorts under it on the right side; she wears a single parisian sock on her right leg and short boots. 
 Colourful, colours contrasting the background.
 ##### Kissa's Quarterstaff 
-Magical quarterstaff which holds Kissa's and Saski's essence: it has one big brush on one side (that used to attack), and the particles nebulosa on the other (used to measure MetaQuant)
+Magical quarterstaff which holds Kissa's and Saski's essence: it has one big brush on one side (that used to attack), and this symbol: 
+
+![alt text](https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/03/01/17/atom-electron-orbit.jpg?width=640&auto=webp&quality=75)
+
+on the other (used to measure MetaQuant)
 ##### MetaQuant 
 Draft: https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgOCk35j8Cww/view 
 Best way to describe them is: between UFOs (since they have an elliptical shape, and their paws rotate as the lights on the bottom of the typical UFO), "emojis" (since their expressions are one of the most apparent features distinguishing one twin from the other, along with the colours, and at the same time represent the kind of skills they have), and their general stylized shapes are similar to the aliens from Space Invaders. 
