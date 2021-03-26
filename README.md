@@ -48,6 +48,10 @@ La misurazione determina un collasso della superposizione e una scelta casuale, 
 ## Resa del tema nelle meccaniche
 ### Livello 1
 Il livello 1 è un'introduzione alla storia e ai poteri dell'eroina. La superposizione qui è resa nella maniera più semplice, con la probabilità (i movimenti sono gli seguono un pattern prevedibile, e la divisione in stati è un semplice 50%).  
+
+#### Storyboard 
+[Prologue](https://app.theplot.io/projects/e7381a4f-b2e1-4522-b44d-1bcdb05f9ef9)
+
 #### Tipologia A: combattimento
 Due sfere, gli stati dell'alieno, in grado di attaccare l'eroina a grande velocità, correndo su una ellissi e apparendo in vari punti casualmente e alternate.
 fase 0: superposizione, in cui i due stati si muovono in direzioni opposte e casualmente una sola compare, visibile, nell'orbita e attaccano indistruttibili la magical girl   
