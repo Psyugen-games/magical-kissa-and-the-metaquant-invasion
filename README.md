@@ -130,7 +130,7 @@ Il loro leader, però, può usare solo il qubit per interagire in questo mondo: 
 #### Genre 
 Side-scrolling platformer. 
 #### Target 
-From the age of 11 to 16 years old.
+From the age of 11 to 15 years old.
 #### Synopsis 
 Kissa is 15 years old and a wannabe painter and art student, who gets teleported into a quantum computer. There, the hologram of a scientist, who is her spitting image, tells her that an alien race invaded Earth in her dimension: the MetaQuant, able to decompose and split themselves into particles, this way travelling through space. Doctor Saski (that is her name) used her own creation, the quantum computer, to trap the aliens inside: she's giving Kissa magical powers to defeat the MetaQuant before they get out of there and destroy Earth. 
 Before dying, Saski locked the leader of the MetaQuant in a box inside the quantum computer: Kissa will need to gain strength and ability in her journey to reach the box and save the world. 
@@ -180,3 +180,5 @@ Four levels.
 Single Player, narrative storyline. 
 #### Platform 
 PC
+#### Engine 
+Unity
