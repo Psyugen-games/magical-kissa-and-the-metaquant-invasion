@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class PlayerInteraction : MonoBehaviour
 {
     [SerializeField]
     private int damage;
