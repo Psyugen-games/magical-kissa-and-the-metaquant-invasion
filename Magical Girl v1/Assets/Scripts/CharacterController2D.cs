@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections.Generic;
+using UnityEngine;
 using UnityEngine.Events;
 
 public class CharacterController2D : MonoBehaviour
@@ -20,6 +21,8 @@ public class CharacterController2D : MonoBehaviour
 	private bool m_FacingRight = true;  // For determining which way the player is currently facing.
 	private Vector3 m_Velocity = Vector3.zero;
 
+	private List<Powerups.Powerup> activePowerUps = new List<Powerups.Powerup>();
+
 	[Header("Events")]
 	[Space]
 
@@ -34,6 +37,8 @@ public class CharacterController2D : MonoBehaviour
 	private void Awake()
 	{
 		m_Rigidbody2D = GetComponent<Rigidbody2D>();
+
+		EventManager.MQDeath += ReceiveMQDeath;
 
 		if (OnLandEvent == null)
 			OnLandEvent = new UnityEvent();
@@ -148,5 +153,11 @@ public class CharacterController2D : MonoBehaviour
 		cameraScale.x *= -1;
 		m_Camera.transform.localScale = cameraScale;
 
+	}
+
+
+	private void ReceiveMQDeath(Enums.MQType MQType)
+	{
+		activePowerUps.Add(Powerups.PowerupFactory.Create(MQType));
 	}
 }

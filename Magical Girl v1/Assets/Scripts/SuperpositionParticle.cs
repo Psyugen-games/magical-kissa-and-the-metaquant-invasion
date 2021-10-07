@@ -11,13 +11,14 @@ public class SuperpositionParticle : MonoBehaviour
         public int particle;
         public int n;
         public Single probability;
-
         public void IncreaseN(int total)
         {
             n++;
             probability = n / total * 1.0f;
         }
     }
+
+    private static readonly Enums.MQType type = Enums.MQType.SUPERPOSITION_PARTICLE;
 
     [Header("Required Objects")]
     [SerializeField]
@@ -35,8 +36,7 @@ public class SuperpositionParticle : MonoBehaviour
 
     [Header("Health Settings")]
     [SerializeField]
-    private int health;
-
+    private int fullHealth;
     [Header("Movement Settings")]
     [SerializeField]
     [Tooltip("Maximum length of the hellipse.")]
@@ -57,7 +57,7 @@ public class SuperpositionParticle : MonoBehaviour
     [SerializeField]
     private float restartMovement = 200.0f;
 
-    private int totalMeasurementsDone = 0;
+    private int totalMeasurementsDone = 0, health;
     private float alpha, beta, X1, Y1, X2, Y2, timePassed;
     private List<Measurement> measurements = new List<Measurement>();
 
@@ -105,7 +105,7 @@ public class SuperpositionParticle : MonoBehaviour
         if (timePassed >= restartMovement)
         {
             totalMeasurementsDone = 0;
-            health = 2;
+            health += health+2 <= fullHealth ? 2 : 0;
         }
     }
 
@@ -166,7 +166,10 @@ public class SuperpositionParticle : MonoBehaviour
             health -= damage;
 
             if (health <= 0)
+            {
+                EventManager.FireMQDeathEvent(type);
                 Destroy(gameObject);
+            }
         }
     }
 
