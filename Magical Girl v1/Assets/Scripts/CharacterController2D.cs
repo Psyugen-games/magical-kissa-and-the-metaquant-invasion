@@ -22,16 +22,7 @@ public class CharacterController2D : MonoBehaviour
 	private Vector3 m_Velocity = Vector3.zero;
 
 	private List<Powerups.Powerup> activePowerUps = new List<Powerups.Powerup>();
-
-	[Header("Events")]
-	[Space]
-
-	public UnityEvent OnLandEvent;
-
-	[System.Serializable]
-	public class BoolEvent : UnityEvent<bool> { }
-
-	public BoolEvent OnCrouchEvent;
+	
 	private bool m_wasCrouching = false;
 
 	private void Awake()
@@ -39,12 +30,6 @@ public class CharacterController2D : MonoBehaviour
 		m_Rigidbody2D = GetComponent<Rigidbody2D>();
 
 		EventManager.MQDeath += ReceiveMQDeath;
-
-		if (OnLandEvent == null)
-			OnLandEvent = new UnityEvent();
-
-		if (OnCrouchEvent == null)
-			OnCrouchEvent = new BoolEvent();
 	}
 
 	private void FixedUpdate()
@@ -61,7 +46,7 @@ public class CharacterController2D : MonoBehaviour
 			{
 				m_Grounded = true;
 				if (!wasGrounded)
-					OnLandEvent.Invoke();
+					EventManager.FireOnLand();
 			}
 		}
 	}
@@ -89,7 +74,7 @@ public class CharacterController2D : MonoBehaviour
 				if (!m_wasCrouching)
 				{
 					m_wasCrouching = true;
-					OnCrouchEvent.Invoke(true);
+					EventManager.FireOnCrouch(true);
 				}
 
 				// Reduce the speed by the crouchSpeed multiplier
@@ -108,7 +93,7 @@ public class CharacterController2D : MonoBehaviour
 				if (m_wasCrouching)
 				{
 					m_wasCrouching = false;
-					OnCrouchEvent.Invoke(false);
+					EventManager.FireOnCrouch(false);
 				}
 			}
 
@@ -137,6 +122,8 @@ public class CharacterController2D : MonoBehaviour
 			m_Grounded = false;
 			m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
 		}
+
+		m_Camera.transform.position = this.transform.position;
 	}
 
 
@@ -149,10 +136,6 @@ public class CharacterController2D : MonoBehaviour
 		Vector3 theScale = transform.localScale;
 		theScale.x *= -1;
 		transform.localScale = theScale;
-		Vector3 cameraScale = m_Camera.transform.localScale;
-		cameraScale.x *= -1;
-		m_Camera.transform.localScale = cameraScale;
-
 	}
 
 

@@ -17,6 +17,12 @@ public class EventManager : MonoBehaviour
     public delegate void ReceiveMeasurement();
     public static event ReceiveMeasurement Measure;
 
+    public delegate void OnLand();
+    public static event OnLand Land;
+
+    public delegate void OnCrouch(bool wasCrouching);
+    public static event OnCrouch Crouch;
+
     public static void FireMeasurementEvent()
     {
         Debug.Log("Measuring");
@@ -36,6 +42,16 @@ public class EventManager : MonoBehaviour
     internal static void FirePowerupExtinction(PUType PUType)
     {
         PowerupExtintion?.Invoke(PUType);
+
+    }
+    internal static void FireOnLand()
+    {
+        Land?.Invoke();
+
+    }
+    internal static void FireOnCrouch(bool wasCrouching)
+    {
+        Crouch?.Invoke(wasCrouching);
 
     }
 }
