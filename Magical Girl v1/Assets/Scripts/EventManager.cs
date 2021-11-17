@@ -25,7 +25,6 @@ public class EventManager : MonoBehaviour
 
     public static void FireMeasurementEvent()
     {
-        Debug.Log("Measuring");
         Measure?.Invoke();
     }
 
