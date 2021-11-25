@@ -239,7 +239,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 156.09262
     y: -169.0658
-    width: 76.7181
+    width: 116.7181
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -371,7 +371,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 159.57713
     y: 65.28394
-    width: 69.30498
+    width: 109.30498
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -426,7 +426,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 162.46474
     y: 157.4421
-    width: 71.77602
+    width: 111.77602
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -530,7 +530,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 100.25102
     y: -42.90203
-    width: 190.38599
+    width: 230.38599
     height: 40
   tint: {r: 0, g: 1, b: 0.90524125, a: 1}
   useCustomTint: 1
@@ -685,7 +685,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 358.7127
     y: 258.91415
-    width: 71.77602
+    width: 111.77602
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -713,7 +713,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -21.5047
     y: 263.1696
-    width: 60
+    width: 99.42082
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2767,15 +2767,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 582886087018503151, guid: 01136fc79e857cd48a8a07d63812a8cb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.121864
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 582886087018503151, guid: 01136fc79e857cd48a8a07d63812a8cb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.00009473413
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 582886087018503151, guid: 01136fc79e857cd48a8a07d63812a8cb, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.5686607
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 582886087018503151, guid: 01136fc79e857cd48a8a07d63812a8cb, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2819,7 +2819,7 @@ GameObject:
   - component: {fileID: 1647237243}
   - component: {fileID: 1647237242}
   - component: {fileID: 1647237244}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tilemap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
